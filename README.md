@@ -21,9 +21,4 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" alt="Swift" />
 </p>
 
-- 📚 **관심 분야**: 웹 애플리케이션 개발, 인공지능, 클라우드, 오픈소스
----
-
-<p align="center">
-  <em>“성공하기보다는 가치 있는 사람이 되라.” – 알베르트 아인슈타인</em>
-</p>
+- 📚 **관심 분야**: 웹 애플리케이션 개발, 인공지능, 통계
