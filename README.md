@@ -22,13 +22,6 @@
 </p>
 
 - 📚 **관심 분야**: 웹 애플리케이션 개발, 인공지능, 클라우드, 오픈소스
-
-## 📫 연락하기
-
-<p align="center">
-  <a href="mailto:galaxydh4110@gmail.com">✉️ 이메일</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-</p>
-
 ---
 
 <p align="center">
