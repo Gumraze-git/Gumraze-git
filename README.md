@@ -44,28 +44,3 @@
 </p>
 
 ---
-
-## 🔥 My Stats
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Gumraze&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-  height="250" 
-/>
-
-<br>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Gumraze&layout=compact&langs_count=5&hide_border=false" 
-  height="150" 
-/>
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gumraze/Gumraze/output/snake.svg" alt="Snake animation" />
-</p>
