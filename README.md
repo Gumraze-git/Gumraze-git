@@ -3,15 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="mailto:galaxydh4110@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&color=FC6D26&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-</p>
-
 <!-- Visitor Badge -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gumraze.Gumraze" />
